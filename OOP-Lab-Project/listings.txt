@@ -1,4 +1,0 @@
-Mercedes 600000
-Tesla 700000
-Kawasaki 125000
-Kia 400000
